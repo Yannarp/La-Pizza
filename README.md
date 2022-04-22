@@ -6,4 +6,10 @@
 </div>
 
 <h3>:bookmark: Layout</h3>
+
+##
 <p>Você pode visualizar o layout do projeto através do link abaixo:</p>
+ <div>
+ 
+ <a href="https://yannarp.github.io/La-Pizza/" rel="nofollow">Clique aqui</a>
+ </div>
